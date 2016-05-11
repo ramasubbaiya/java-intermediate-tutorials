@@ -23,6 +23,9 @@ public class Lesson3LinkedList {
 		printList(list1);
 		System.out.println();
 		reverseList(list1);
+		System.out.println();
+		mergeList(list1, list2);
+		printList(list1);
 		
 		/*Sample Output:
 		 * 
@@ -31,6 +34,10 @@ public class Lesson3LinkedList {
 		 * book can tin scale eraser
 		 * 	 
 		 * */
+	}
+
+	private static void mergeList(List<String> list1, List<String> list2) {
+		list1.addAll(list2);
 	}
 
 	private static void reverseList(List<String> list) {
