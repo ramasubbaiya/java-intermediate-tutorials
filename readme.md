@@ -1,2 +1,2 @@
-# Java Intermediate tutorials 
+# Java Intermediate Tutorials 
 :bowtie: Created by Rama

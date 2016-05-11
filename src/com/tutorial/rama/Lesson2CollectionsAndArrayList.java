@@ -2,7 +2,7 @@ package com.tutorial.rama;
 
 import java.util.*;
 
-public final class Lesson2Collections {
+public final class Lesson2CollectionsAndArrayList {
 
 	public static void main(String[] args) {
 		String[] words = {"first", "second", "third", "fourth"};
@@ -39,7 +39,6 @@ public final class Lesson2Collections {
 	}
 
 	private static void editList(List<String> l1, List<String> l2) {
-		// TODO Auto-generated method stub
 		Iterator<String> iterator = l1.iterator(); 
 		//Loop through item by item
 		while(iterator.hasNext()) {
