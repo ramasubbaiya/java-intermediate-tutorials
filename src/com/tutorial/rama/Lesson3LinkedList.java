@@ -23,6 +23,14 @@ public class Lesson3LinkedList {
 		printList(list1);
 		System.out.println();
 		reverseList(list1);
+		
+		/*Sample Output:
+		 * 
+		 * eraser pencil scale tin can book
+		 * eraser scale tin can book
+		 * book can tin scale eraser
+		 * 	 
+		 * */
 	}
 
 	private static void reverseList(List<String> list) {
