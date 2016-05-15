@@ -6,3 +6,6 @@
 :point_right: Lesson 3 : LinkedList<br />
 :point_right: Lesson 4 : List to Array<br />
 :point_right: Lesson 5 : Collections sorting and replacing<br />
+
+Sorry for the delay I was busy roaming, Will be updating today or tomorrow!
+Thanks.

@@ -20,6 +20,7 @@ public class Lesson5CollectionSorting {
 		System.out.printf(" %s", list);
 		System.out.println();
 
+		//Replacing the items inside the list
 		Collections.replaceAll(list, "tin", "big_box");
 		System.out.printf(" %s", list);
 		
