@@ -24,6 +24,9 @@ public class Lesson5CollectionSorting {
 		Collections.replaceAll(list, "tin", "big_box");
 		System.out.printf(" %s", list);
 		
+		//For copying contents from one Collection to another
+		//Collections.copy(dest, src);
+		
 		
 		/*Sample Output
 		 * 
