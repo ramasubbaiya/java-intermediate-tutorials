@@ -6,12 +6,13 @@
 :point_right: Lesson 3 : LinkedList<br />
 :point_right: Lesson 4 : List to Array<br />
 :point_right: Lesson 5 : Collections sorting and replacing<br />
+:point_right: Lesson 6 : Collections Copy and Fill<br />
 
-Yet to Come ---------------(Pending.. 30%)------------------------- <br />
-:point_right: Lesson 6 : Frequency and Disjoint<br />
-:point_right: Lesson 7 : Stacks, push, pop<br />
-:point_right: Lesson 8 : Queue<br />
-:point_right: Lesson 9 : HashSet<br />
+Yet to Come ---------------(Pending.. 70%)------------------------- <br />
+:point_right: Lesson 7 : Frequency and Disjoint<br />
+:point_right: Lesson 8 : Stacks, push, pop<br />
+:point_right: Lesson 9 : Queue<br />
+:point_right: Lesson 10 : HashSet<br />
 :point_right: Lesson 10 : Generic Methods<br />
 :point_right: Lesson 11 : Implementing Generic Methods<br />
 :point_right: Lesson 12 : How to put Applet in a Website<br />

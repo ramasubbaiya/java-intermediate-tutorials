@@ -29,5 +29,21 @@ public class Lesson6CollectionCopyFill {
 		for(Character c: l)
 			System.out.println(c);
 	}
+	
+	/*	Output :
+	 * 
+		 List is  : 
+			a
+			b
+			c
+			Copied List is  : 
+			a
+			b
+			c
+			After filling the list : 
+			x
+			x
+			x
+	*/
 
 }
