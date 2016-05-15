@@ -9,17 +9,17 @@ public class Lesson7CollectionFrequencyDisjoint {
 		LinkedList<String> list1 = new LinkedList<String>(Arrays.asList(things));
 		
 		String[] moreThings = {"tin", "can", "book"};
-		LinkedList<String> list2 = new LinkedList<String>(Arrays.asList(things));
+		LinkedList<String> list2 = new LinkedList<String>(Arrays.asList(moreThings));
 		
 		//Frequency displays the no.of occurrence of the item in the collection 
 		System.out.println("No. of scale in the list : " + Collections.frequency(list1, "scale"));
 		//Output 
-		//2
+		//No. of scale in the list : 2
 		
-		//Disjoint compares two collection(list) is equal or not
-		System.out.println(Collections.disjoint(list1, list2));
+		//Disjoint compares two collection(list) - for common elements
+		System.out.println("No common elements : " + Collections.disjoint(list1, list2));
 		//Output 
-		//false
+		//No common elements : true
 
 	}
 
