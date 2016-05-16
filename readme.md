@@ -11,10 +11,11 @@
 :point_right: Lesson 8 : Stacks, push, pop<br />
 :point_right: Lesson 9 : Queue<br />
 :point_right: Lesson 10 : HashSet<br />
+:point_right: Lesson 11 : Generic Methods<br />
 
 Yet to Come ---------------(Pending.. 70%)------------------------- <br />
 
-:point_right: Lesson 10 : Generic Methods<br />
+
 :point_right: Lesson 11 : Implementing Generic Methods<br />
 :point_right: Lesson 12 : How to put Applet in a Website<br />
 :point_right: Lesson 13 : Init for Applets<br />

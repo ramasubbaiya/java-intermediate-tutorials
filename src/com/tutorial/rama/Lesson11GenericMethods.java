@@ -38,18 +38,20 @@ public class Lesson11GenericMethods {
 		System.out.println();
 	}
 	
+	/* Will be implementing a overloading methods in next chapter/lesson for good understanding */
+	
 	// generic method printArray                         
-   public static < E > void printArray( E[] inputArray )
-   {
-      // Display array elements              
-         for ( E element : inputArray ){        
-            System.out.printf( "%s ", element );
-         }
-         System.out.println();
+    public static < E > void printArray( E[] inputArray )
+    {
+		// Display array elements              
+		 for ( E element : inputArray ){        
+		    System.out.printf( "%s ", element );
+		 }
+		 System.out.println();
     }
    
-   /*Output
-    	9 8 7 6 
+	/*Output
+		9 8 7 6 
 		r a m a 
 		Array integerArray contains:
 		1 2 3 4 5 
@@ -59,6 +61,6 @@ public class Lesson11GenericMethods {
 		
 		Array characterArray contains:
 		H E L L O 
-    */
+	*/
 
 }
