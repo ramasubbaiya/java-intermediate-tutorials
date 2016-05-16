@@ -8,11 +8,11 @@
 :point_right: Lesson 5 : Collections sorting and replacing<br />
 :point_right: Lesson 6 : Collections Copy and Fill<br />
 :point_right: Lesson 7 : Frequency and Disjoint<br />
+:point_right: Lesson 8 : Stacks, push, pop<br />
+:point_right: Lesson 9 : Queue<br />
 
 Yet to Come ---------------(Pending.. 70%)------------------------- <br />
 
-:point_right: Lesson 8 : Stacks, push, pop<br />
-:point_right: Lesson 9 : Queue<br />
 :point_right: Lesson 10 : HashSet<br />
 :point_right: Lesson 10 : Generic Methods<br />
 :point_right: Lesson 11 : Implementing Generic Methods<br />
