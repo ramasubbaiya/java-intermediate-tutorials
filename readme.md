@@ -23,13 +23,24 @@
 	I - Inheritance
 	E - Encapsulation
 	
-**ABSTRACTION:
-	* Focus on essentials/idea rather than specific details/events
-	* Ignore the irrelevant or unimportant
+**ABSTRACTION**
+* Focus on essentials/idea rather than specific details/events
+* Ignore the irrelevant or unimportant
 
+**Abstract Class**
+* May or may not contain abstract methods (Eg- method without body: ```public void get();```  )
+* But, if a class have at least one abstract method, then the class must be declared abstract.
+* If a class is declared abstract it cannot be instantiated.
+* To use an abstract class you have to inherit it from another class, provide implementations to the abstract methods in it.
+* If you inherit an abstract class you have to provide implementations to all the abstract methods in it
 
+:point_right: Lesson 15 : Abstract Class<br />
 
-Yet to Come ---------------(Pending.. 70%)------------------------- <br />
+**Abstract Method**
+
+:point_right: Lesson 16 : Abstract Method<br />
+
+Yet to Come ---------------------------------- <br />
 
 
 

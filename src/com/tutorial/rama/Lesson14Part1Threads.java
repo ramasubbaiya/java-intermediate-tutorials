@@ -2,7 +2,7 @@ package com.tutorial.rama;
 
 import java.util.*;
 
-public class Lesson14Threads implements Runnable {
+public class Lesson14Part1Threads implements Runnable {
 
 	//Loading and watching - power of threads
 	
@@ -10,7 +10,7 @@ public class Lesson14Threads implements Runnable {
 	int time;
 	Random random = new Random();
 	
-	public Lesson14Threads(String name) {
+	public Lesson14Part1Threads(String name) {
 		this.name = name;
 		this.time = random.nextInt(9999);
 	}
