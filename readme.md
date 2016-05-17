@@ -17,7 +17,17 @@
 :point_right: Lesson 14 : Threads<br />
 :point_right: Lesson 14 : Threads Call<br />
 
-### Object Oriented Programming with easy examples for easy understanding
+### Object Oriented Programming
+	A - Abstraction
+	P - Polymorphism
+	I - Inheritance
+	E - Encapsulation
+	
+**ABSTRACTION:
+	* Focus on essentials/idea rather than specific details/events
+	* Ignore the irrelevant or unimportant
+
+
 
 Yet to Come ---------------(Pending.. 70%)------------------------- <br />
 
