@@ -23,7 +23,7 @@
 	I - Inheritance
 	E - Encapsulation
 	
-**ABSTRACTION**
+####ABSTRACTION
 * Focus on essentials/idea rather than specific details/events
 * Ignore the irrelevant or unimportant
 
@@ -39,6 +39,36 @@
 **Abstract Method**
 
 :point_right: Lesson 16 : Abstract Method<br />
+
+####POLYMORPHISM
+* Many Forms/Behaviour
+* It is of two types
+	* Static Binding - Compile time polymorphism 
+		* Eg: Method Overloading
+	* Dynamic Binding - Runtime polymorphism
+		* Eg: Method Overridding
+
+**Method Overloading**
+* Same Method name
+* Different parameter
+* Different behavior
+
+:point_right: Lesson 17 : Method Overloading <br />
+
+**Method Overriding**
+* Same Method name
+* Same parameter
+* Different class
+
+:point_right: Lesson 18 : Method Overriding <br />
+
+**Constructor Overloading**
+* Same Constructor name
+* Different parameter
+
+:point_right: Lesson 19 : Constructor Overloading <br />
+
+
 
 Yet to Come ---------------------------------- <br />
 
