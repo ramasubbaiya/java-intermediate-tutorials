@@ -14,6 +14,8 @@
 :point_right: Lesson 11 : Generic Methods<br />
 :point_right: Lesson 12 : Implementing Generic Methods<br />
 :point_right: Lesson 13 : Generic Return Types<br />
+:point_right: Lesson 14 : Threads<br />
+:point_right: Lesson 14 : Threads Call<br />
 
 Yet to Come ---------------(Pending.. 70%)------------------------- <br />
 

@@ -1,6 +1,6 @@
 package com.tutorial.rama;
 
-public class GenericMethodImplementation {
+public class Lesson12GenericMethodImplementation {
 
 	public static void main(String[] args) {
 		
