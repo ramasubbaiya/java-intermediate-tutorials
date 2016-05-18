@@ -23,7 +23,9 @@
 	I - Inheritance
 	E - Encapsulation
 	
-####------------------------------------------ ABSTRACTION ------------------------------------------
+------	
+####ABSTRACTION 
+------
 * Focus on essentials/idea rather than specific details/events
 * Ignore the irrelevant or unimportant
 
@@ -40,7 +42,9 @@
 
 :point_right: Lesson 16 : Abstract Method<br />
 
-####------------------------------------------ POLYMORPHISM ------------------------------------------
+------
+####POLYMORPHISM 
+------
 * Many Forms/Behaviour
 * It is of two types
 	* Static Binding - Compile time polymorphism 
@@ -68,14 +72,18 @@
 
 :point_right: Lesson 19 : Constructor Overloading <br />
 
-####------------------------------------------ INHERITANCE ------------------------------------------
+------
+####INHERITANCE 
+------
 * Code reuse - efficient method
 * One class acquires the properties (methods and fields) of another Class
 * ```extends``` is the keyword used to inherit the properties of a class
 
 :point_right: Lesson 20 : Polymorphism <br />
 
-####------------------------------------------ ENCAPSULATION ------------------------------------------
+------
+####ENCAPSULATION 
+------
 * Process of wrapping code and data together into a single unit
 * Variables of a class is hidden from other classes, and can be accessed only through the methods of their current class [Data hiding]
 * To achieve encapsulation in Java
