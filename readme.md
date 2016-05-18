@@ -87,7 +87,10 @@
 
 :point_right: Lesson 21 : Encapsulation <br />
 
-####--------------------------------------------------------------------------------------------------
+---
+
+***
+
 ### Continuation
 
 :point_right: Lesson 22 : Interface <br />
