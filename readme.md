@@ -17,7 +17,7 @@
 :point_right: Lesson 14 : Part 1 - Threads<br />
 :point_right: Lesson 14 : Part 2 - Threads Call<br />
 
-### Object Oriented Programming
+## Object Oriented Programming
 	A - Abstraction
 	P - Polymorphism
 	I - Inheritance
@@ -25,7 +25,6 @@
 	
 ------	
 ####ABSTRACTION 
-------
 * Focus on essentials/idea rather than specific details/events
 * Ignore the irrelevant or unimportant
 
@@ -44,7 +43,6 @@
 
 ------
 ####POLYMORPHISM 
-------
 * Many Forms/Behaviour
 * It is of two types
 	* Static Binding - Compile time polymorphism 
@@ -74,7 +72,6 @@
 
 ------
 ####INHERITANCE 
-------
 * Code reuse - efficient method
 * One class acquires the properties (methods and fields) of another Class
 * ```extends``` is the keyword used to inherit the properties of a class
@@ -83,7 +80,6 @@
 
 ------
 ####ENCAPSULATION 
-------
 * Process of wrapping code and data together into a single unit
 * Variables of a class is hidden from other classes, and can be accessed only through the methods of their current class [Data hiding]
 * To achieve encapsulation in Java
@@ -95,11 +91,15 @@
 
 :point_right: Lesson 21 : Encapsulation <br />
 
----
-
-***
-
-### Continuation
+------
+####INTERFACE 
+* Collection of abstract methods
+* Writing an interface is similar to writing a class. But a class describes the attributes and behaviors of an object. And an interface contains behaviors that a class implements.
+* How it varies from a class
+	* You cannot instantiate an interface
+	* An interface does not contain any constructors
+	* All of the methods in an interface are abstract
+	* An interface can extend multiple interfaces
 
 :point_right: Lesson 22 : Interface <br />
 
