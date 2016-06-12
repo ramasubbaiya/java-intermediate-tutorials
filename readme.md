@@ -103,5 +103,6 @@
 
 :point_right: Lesson 22 : Interface <br />
 
-Sorry for the delay I was busy roaming, Will be updating today or tomorrow!
-Thanks.
+------
+:point_right: Lesson 23 : Final Keyword <br />
+* Example for variable, method and class
