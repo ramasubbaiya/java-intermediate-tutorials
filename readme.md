@@ -98,7 +98,7 @@
 * How it varies from a class
 	* You cannot instantiate an interface
 	* An interface does not contain any constructors
-	* All of the methods in an interface are abstract
+	* All of the methods in an interface are abstract(by default its public abstract)
 	* An interface can extend multiple interfaces
 
 :point_right: Lesson 22 : Interface <br />
@@ -106,3 +106,5 @@
 ------
 :point_right: Lesson 23 : Final Keyword <br />
 * Example for variable, method and class
+
+:point_right: Lesson 24 : Anonymous Class and Object <br />

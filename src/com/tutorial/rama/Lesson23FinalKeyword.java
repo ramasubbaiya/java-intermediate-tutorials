@@ -20,6 +20,7 @@ public class Lesson23FinalKeyword {
 		
 		System.out.println("Final int variable a : "+a);
 		System.out.println("Final int variable b : "+b);
+		
 	}
 
 }
@@ -28,7 +29,6 @@ class A {
 	public final void show() {
 		System.out.println("Hay, I am from A");
 	}
-	
 }
 
 final class B extends A {
