@@ -36,6 +36,7 @@
 * If you inherit an abstract class you have to provide implementations to all the abstract methods in it
 
 :point_right: Lesson 15 : Abstract Class<br />
+	A class which extends an abstract class and defines every method in it is called concrete class 
 
 **Abstract Method**
 
