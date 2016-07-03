@@ -16,6 +16,7 @@ public class ArrayListTutorial {
 		//Retrieving single value
 		System.out.println(numbers.get(0));
 		
+		//Looping through array
 		System.out.println("\nIterate through arrays : Method 1");
 		for (int i = 0; i < numbers.size(); i++) {
 			System.out.println(numbers.get(i));
@@ -25,6 +26,12 @@ public class ArrayListTutorial {
 		for(int number: numbers) {
 			System.out.println(number);
 		}
+		
+		//Removing last item - it is fast
+		numbers.remove(numbers.size()-1);
+		
+		//Remove first item - it is slow
+		numbers.remove(0);
 	}
 
 }
