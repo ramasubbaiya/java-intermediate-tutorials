@@ -54,7 +54,7 @@ public class ListSpeedTest {
 }
 
 	/* 	Array-List  :  Best for retrieving data
-					   Adding at the end of the array
+					   Adding at the near-end/end of the array
 				
 		Linked-List :  Best for inserting and deleting the data
 					   Not good for retrieving the data
