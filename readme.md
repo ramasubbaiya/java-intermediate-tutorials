@@ -109,3 +109,5 @@
 * Example for variable, method and class
 
 :point_right: Lesson 24 : Anonymous Class and Object <br />
+
+Added Collections tutorial
